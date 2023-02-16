@@ -5,7 +5,7 @@ measure different properties in the atmosphere  for categorizing. Having a camer
 We developed this machine with 2 sensors: SGP40 Sensor - the air quality sensor and the SM-UART-04L Laser Dust Sensor. Moreover, the car contains an 
 esp32 with a digital camera, and a Raspberry Pie which is used outside of the vehicle as the MQTT broker.
 
-It is vital that a sequence of commands for the rover must be handled by all software developed since the delay of transmitted signals will be between 5
+It is vital that a sequence of commands for the rover is handled by all software developed since the delay of transmitted signals will be between 5
 and 20 minutes.  
 
 MOVEMENT AND GETTING THE DATA FROM THE SENSORS
