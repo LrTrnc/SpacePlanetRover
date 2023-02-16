@@ -9,6 +9,6 @@ It is vital that a sequence of commands for the rover is handled by all software
 and 20 minutes.  
 
 MOVEMENT AND GETTING THE DATA FROM THE SENSORS <br>
-In order to move the vehicle and get the data, a command line must be entered as "[movement][centimeters][space]'s'". For example, if you want vehicle to go forward 10 cm, backward 8 cm, and give 5 lines of data you must type "f10 b8 a5 s".
+In order to move the vehicle and get the data, a command line must be entered as "[movement][centimeters][space]'s'". For example, if you want vehicle to go forward 10 cm, backwards 8 cm, and give 5 lines of data you must type "f10 b8 a5 s".
 
  
